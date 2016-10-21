@@ -1,2 +1,4 @@
 # hello-world
-this is the hellow world rep!
+This is the hellow world repo!
+
+It is a first repo based on the tutorial
